@@ -6,7 +6,7 @@
 <div id="header">
 
   <h2>Hi! I'm Brooke ☕</h2>
-    <img align="right"src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" height="200" style="border: 4px solid #615979"/>
+    <img align="right"src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" height="200"/>
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -69,8 +69,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrichards10&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Brooke's GitHub stats](https://vercel-repo-two-neon.vercel.app/api?username=abrichards10&show_icons=true&theme=radical&include_all_commits=true)
-
-[![Top Langs](https://vercel-repo-two-neon.vercel.app/api/top-langs/?username=abrichards10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Brookes GitHub stats](https://vercel-repo-two-neon.vercel.app/api?username=abrichards10&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%234e0138&qColor=%23d11754&aColor=%23e7ae6c)
