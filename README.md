@@ -2,9 +2,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </head>
 
-
-<div align="left">
+<div align="justify">
 <div id="header">
+
+  <h2>Hi! I'm Brooke ☕</h2>
+    <img align="right"src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" height="200"/>
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -14,27 +17,22 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=abrichards10&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div>
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" height="200"/>
-</div>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: This is me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
 
 (_Also a Python and Web Instructor, and Tech Developer Teaching Assistant_)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building iOS, Android and Web Applications!
 
+- 🎓 Graduated from USF with a Bachelor's in Computer Science and a minor in Mathematics, with an Associates in Natural Science from Sierra College
+
 - :seedling: Challenging myself to make at least one commit a day >:)
 
 - :zap: In my free time, I'm teaching myself React and learning how to knit 🧶
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brooke-richards-swe)
+- :mailbox: Here's how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brooke-richards-swe)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -73,5 +71,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrichards10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-(I'm so sorry 🫠) 
+(I'm so terribly sorry 🫠) 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
