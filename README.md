@@ -63,12 +63,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/gradle/gradle-plain.svg' width=40 height=40>
 <!--   <img src='' width=40 height=40> -->
 
+<!-- ![Brookes GitHub stats](https://vercel-repo-two-neon.vercel.app/api?username=abrichards10&show_icons=true&theme=radical&include_all_commits=true) -->
+
+
 </div>
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrichards10&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Brookes GitHub stats](https://vercel-repo-two-neon.vercel.app/api?username=abrichards10&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%234e0138&qColor=%23d11754&aColor=%23e7ae6c)
