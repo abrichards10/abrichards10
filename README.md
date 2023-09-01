@@ -70,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrichards10&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrichards10&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%234e0138&qColor=%23d11754&aColor=%23e7ae6c)
