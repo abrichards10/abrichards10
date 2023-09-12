@@ -20,7 +20,7 @@
 </div>
 
 ### :woman_technologist: This is me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
+I am a Full Stack Developer Specializing in Flutter and Node.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
 
 (_Also a Python and Web Instructor, and Tech Developer Teaching Assistant_)
 
