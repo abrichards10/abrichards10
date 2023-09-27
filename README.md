@@ -66,11 +66,11 @@ I am a Full Stack Developer Specializing in Flutter and Node.js <img src="https:
 <!-- ![Brookes GitHub stats](https://vercel-repo-two-neon.vercel.app/api?username=abrichards10&show_icons=true&theme=radical&include_all_commits=true) -->
 
 
-</div>
+</div><br>
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : --> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abrichards10&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=abrichards10&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%234e0138&qColor=%23d11754&aColor=%23e7ae6c)
