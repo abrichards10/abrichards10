@@ -6,7 +6,8 @@
 <div id="header">
 
   <h2>Hi! I'm Brooke ☕</h2>
-    <img align="right"src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" height="200"/>
+<!--     <img align="right"src="[https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif](https://gifer.com/embed/4XCW)" width="300" height="200"/> -->
+    <iframe src="" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -22,15 +23,17 @@
 ### :woman_technologist: This is me:
 I am a Full Stack Developer Specializing in Flutter and Node.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
 
-(_Also a Python and Web Instructor, and Tech Developer Teaching Assistant_)
+(_Also a Python, Web and Game Dev Instructor, Career Mentor and Tech Developer Leader_)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building iOS, Android and Web Applications!
 
-- 🎓 Graduated from USF with a Bachelor's in Computer Science and a minor in Mathematics, with an Associates in Natural Science from Sierra College
+- 🎓 Graduated from USF with a Bachelor's in Computer Science and a minor in Mathematics, with an Associates in Natural Science from Sierra College.
 
 - :seedling: Challenging myself to make at least one commit a day >:)
 
 - :zap: In my free time, I'm teaching myself React and learning how to knit 🧶
+
+- 🦉 Also I currently have almost an 800 day streak on Duolingo 
 
 - :mailbox: Here's how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brooke-richards-swe)
 
