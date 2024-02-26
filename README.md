@@ -7,7 +7,7 @@
 
   <h2>Hi! I'm Brooke ☕</h2>
 <!--     <img align="right"src="[https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif](https://gifer.com/embed/4XCW)" width="300" height="200"/> -->
-    <iframe src="" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<!--     <iframe src="" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p> -->
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
